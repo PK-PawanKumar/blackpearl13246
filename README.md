@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Pawan 
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning IIT BHU
+- 👀 Interested in web development and CP😉
+- 🌱 currently in IIT BHU
